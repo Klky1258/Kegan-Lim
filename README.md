@@ -25,5 +25,3 @@ Do you relate to my story, or want to know more about my background? I'd love to
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/> 
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
 
----
-
