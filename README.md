@@ -17,3 +17,6 @@ Building on these experiences, I am now furthering my studies and skills as a Ro
 Do you relate to my story, or want to know more about my background? I'd love to connect with you on Linkedin! You can also reach me at 📧 𝐊𝐥𝐤𝐲𝟏𝟐𝟓𝟖@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦.
 
 ---
+
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
