@@ -18,4 +18,13 @@ Do you relate to my story, or want to know more about my background? I'd love to
 
 ---
 
-### Languages and Tools: <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/> <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/> <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/> <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg"/>
+### Languages and Tools: 
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/> 
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/> 
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/> 
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg"/>
+
+#
+
+
