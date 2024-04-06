@@ -23,9 +23,9 @@ Do you relate to my story, or want to know more about my background? I'd love to
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/> 
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/> 
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/> 
-<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
 
 #
 
-<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://github.com/Klky1258/Kegan-Lim/assets/67211236/5b5b61f8-e679-45dd-a995-cf8cc4221125"/> 
+<img align="left" alt="Java" width="200px" style="padding-right:10;" src="https://github.com/Klky1258/Kegan-Lim/assets/67211236/5b5b61f8-e679-45dd-a995-cf8cc4221125"/> 
 
