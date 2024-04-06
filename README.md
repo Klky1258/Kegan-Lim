@@ -19,4 +19,4 @@ Do you relate to my story, or want to know more about my background? I'd love to
 ---
 
 ### Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
