@@ -2,6 +2,7 @@
 Aspiring 🤖 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, I am driven by the potential of robotics to revolutionize manufacturing industries. With my knowledge in robotics, problem-solving skills, and innovative thinking, I aim to contribute to improving efficiency and productivity. My passion for robotics is not just theoretical but also backed by practical experience in the industry.
 
 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
+
 ▸👨‍🔧 6 month internship at the Automation Centre @ Omron Asia Pacific, part of the R&D team.
  ▸Working on a project that involved both 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐑𝐨𝐛𝐨𝐭 𝐚𝐧𝐝 𝐌𝐨𝐛𝐢𝐥𝐞 𝐑𝐨𝐛𝐨𝐭 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧. 
  ▸Robotics Solution showcase in Showroom
