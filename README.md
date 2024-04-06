@@ -27,4 +27,4 @@ Do you relate to my story, or want to know more about my background? I'd love to
 
 #
 
-
+![weighingscale app 1](https://github.com/Klky1258/Kegan-Lim/assets/67211236/5b5b61f8-e679-45dd-a995-cf8cc4221125)
