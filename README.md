@@ -14,7 +14,7 @@ Aspiring 🤖 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫,
 
 Building on these experiences, I am now furthering my studies and skills as a Robotics Systems student at the Singapore Institute of Technology. My goal is to deepen my expertise in the Mechatronics and Systems field of Engineering. I believe that continuous learning is key to staying relevant in this rapidly evolving field, and I am excited about the opportunities that lie ahead.
 
-Do you relate to my story, or want to know more about my background? I'd love to connect with you on Linkedin! You can also reach me at 📧 𝐊𝐥𝐤𝐲𝟏𝟐𝟓𝟖@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦.
+Do you relate to my story, or want to know more about my background? I'd love to connect with you on Linkedin! You can also reach me at 📧 kegan.lim01@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦.
 
 ---
 
